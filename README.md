@@ -1,1 +1,3 @@
 # marketing_in_pandas
+
+One of the most common questions you might be asked is, "Was the campaign successful?". At first, this might feel like an intimidating question. There are so many ways one could measure campaign success! That said, there are a few kinds of metrics you will find yourself using over and over again. For a marketing team, campaign success is typically measured by conversion rate. This is to say, of all the people who came into contact with your marketing campaign, how many bought the product? Depending on the business, this could mean that a person made a purchase or subscribed to your service. 
